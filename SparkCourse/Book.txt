@@ -398,30 +398,7 @@ FINANCIAL MANAGEMENT
 At this point, you are armed with an estimate of your market size, its growth trends, and the price point of your products. Now it's time to do the math, and project how much revenue your company might produce over time.
 At this stage, all you can do is guess as to what percentage of your market you will capture. This is called your "market penetration."  It will depend on the quality of your product, your competition, and the effectiveness of your marketing.  At least you have defined what your product will be, and what your marketing strategy is – so it's an informed guess.
 These are all just back of the envelope numbers, so set up a simple spreadsheet that looks like this:
-
-Year 1
-Year 2
-Year 3
-Year 4
-Year 5
-Revenue
-
-
-
-
-
-Expenses
-
-
-
-
-
-Net Profit
-
-
-
-
-
+Year 1Year 2Year 3Year 4Year 5RevenueExpensesNet Profit
 Revenue will be your estimated market size times your market penetration, multiplied again by how much each customer will spend on you in a year. Don't overestimate your initial market penetration – at first, nobody has heard of you, and it takes time for word of mouth to spread and for your products to mature.
 Your expenses should take into account any equipment, advertising, travel, or personnel costs – anything you will be investing back into the business to keep it growing. Think about capital expenses: will you need new computers, office furniture, or office equipment? Will you have web hosting fees, or subscriptions for online services for accounting, email, or sales? In my own case, the biggest expense area is for advertising, which is at least something you can spend as much or as little on as you want to. If you will need to hire contractors or freelancers to develop your business, they will also end up being a large expense.
 What's left over is your net profit, and if you own 100% of your business, that's basically your money. You need to keep your business and personal expenses separated in different bank accounts, but you have access to all of that money if you need it. You can always transfer money from your business to your personal account and call it an “owner distribution” for accounting purposes.  Keep in mind however that this number is before taxes, and you will pay a higher tax rate as a self-employed individual (at least in the US.) Let's say you get to keep 70% of that number – these are all estimates anyhow, so an exact tax rate isn't too important.
